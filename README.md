@@ -5,7 +5,7 @@
 🚀 Apaixonado por tecnologia e desenvolvimento web
 </p>
 
-Sou um entusiasta de tecnologia focado em criar **soluções modernas e funcionais**. Atualmente estou mergulhando no **ecossistema Web**,.
+Sou um entusiasta de tecnologia focado em criar **soluções modernas e funcionais**. Atualmente estou mergulhando no **ecossistema Web**.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 💡 Estudando **Desenvolvimento Web moderno**
